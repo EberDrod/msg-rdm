@@ -1,0 +1,24 @@
+{
+  "name": "msg-rdm",
+  "version": "1.0.0",
+  "description": "Random - String - Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EberDrod/msg-rdm.git"
+  },
+  "keywords": [],
+  "author": "Eb Peña <eber.devs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EberDrod/msg-rdm/issues"
+  },
+  "homepage": "https://github.com/EberDrod/msg-rdm#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+}
